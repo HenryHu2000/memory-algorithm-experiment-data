@@ -1,0 +1,876 @@
+---
+- word:
+    name: "wir"
+    hint: "we"
+    translation: "我們"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-22 22:17:44"
+- word:
+    name: "klein"
+    hint: "small"
+    translation: "小"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-22 22:17:52"
+- word:
+    name: "kurz"
+    hint: "short"
+    translation: "短"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-22 22:17:56"
+- word:
+    name: "eng"
+    hint: "narrow"
+    translation: "窄"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-22 22:17:58"
+- word:
+    name: "dünn"
+    hint: "thin"
+    translation: "薄"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-22 22:18:05"
+- word:
+    name: "Wurm"
+    hint: "worm"
+    translation: "蟲"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-22 22:18:09"
+- word:
+    name: "Nase"
+    hint: "nose"
+    translation: "鼻"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:08:59"
+- word:
+    name: "Knochen"
+    hint: "bone"
+    translation: "骨"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:09:02"
+- word:
+    name: "Fett"
+    hint: "fat (noun)"
+    translation: "脂"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:09:05"
+- word:
+    name: "Ei"
+    hint: "egg"
+    translation: "蛋"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:09:07"
+- word:
+    name: "Laus"
+    hint: "louse"
+    translation: "虱"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:09:22"
+- word:
+    name: "Schwanz"
+    hint: "tail"
+    translation: "尾"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:09:34"
+- word:
+    name: "Feder"
+    hint: "feather"
+    translation: "羽"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:09:36"
+- word:
+    name: "Haar"
+    hint: "hair"
+    translation: "髮"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:09:38"
+- word:
+    name: "schwer"
+    hint: "heavy"
+    translation: "重"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:10:07"
+- word:
+    name: "breit, weit"
+    hint: "wide"
+    translation: "寬"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:11:19"
+- word:
+    name: "Blatt"
+    hint: "leaf"
+    translation: "葉"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:11:24"
+- word:
+    name: "Wurzel"
+    hint: "root"
+    translation: "根"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:11:31"
+- word:
+    name: "wer"
+    hint: "who"
+    translation: "誰"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:11:34"
+- word:
+    name: "Ohr"
+    hint: "ear"
+    translation: "耳"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:11:37"
+- word:
+    name: "Gras"
+    hint: "grass"
+    translation: "草"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:11:39"
+- word:
+    name: "wenig"
+    hint: "few"
+    translation: "少"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:12:26"
+- word:
+    name: "Haut"
+    hint: "skin"
+    translation: "膚"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-23 22:12:32"
+- word:
+    name: "was"
+    hint: "what"
+    translation: "什麼"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:48:19"
+- word:
+    name: "saugen"
+    hint: "to suck"
+    translation: "吸"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:48:22"
+- word:
+    name: "spucken"
+    hint: "to spit"
+    translation: "吐"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:48:24"
+- word:
+    name: "Mund"
+    hint: "mouth"
+    translation: "口"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:48:30"
+- word:
+    name: "Zahn"
+    hint: "tooth"
+    translation: "牙"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:48:37"
+- word:
+    name: "Rinde"
+    hint: "bark (of a tree)"
+    translation: "樹皮"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:48:52"
+- word:
+    name: "erbrechen"
+    hint: "to vomit"
+    translation: "嘔"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:48:55"
+- word:
+    name: "Seil"
+    hint: "rope"
+    translation: "繩"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:12"
+- word:
+    name: "Bein"
+    hint: "leg"
+    translation: "腿"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:15"
+- word:
+    name: "Knie"
+    hint: "knee"
+    translation: "膝"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:18"
+- word:
+    name: "Hand"
+    hint: "hand"
+    translation: "手"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:21"
+- word:
+    name: "blasen"
+    hint: "to blow"
+    translation: "吹"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:25"
+- word:
+    name: "Bauch"
+    hint: "belly"
+    translation: "腹"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:27"
+- word:
+    name: "Eingeweide"
+    hint: "guts"
+    translation: "腸"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:32"
+- word:
+    name: "Blume"
+    hint: "flower"
+    translation: "花"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:43"
+- word:
+    name: "atmen"
+    hint: "to breathe"
+    translation: "呼吸"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:49:58"
+- word:
+    name: "Leber"
+    hint: "liver"
+    translation: "肝"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:50:01"
+- word:
+    name: "Auge"
+    hint: "eye"
+    translation: "眼"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:50:03"
+- word:
+    name: "lachen"
+    hint: "to laugh"
+    translation: "笑"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-24 22:50:05"
+- word:
+    name: "stehen (state)"
+    hint: "to stand"
+    translation: "站"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:35:18"
+- word:
+    name: "denken"
+    hint: "to think"
+    translation: "想"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:35:20"
+- word:
+    name: "riechen"
+    hint: "to smell"
+    translation: "嗅"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:35:22"
+- word:
+    name: "schlafen"
+    hint: "to sleep"
+    translation: "睡"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:35:40"
+- word:
+    name: "sterben"
+    hint: "to die"
+    translation: "死"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:36:50"
+- word:
+    name: "töten"
+    hint: "to kill"
+    translation: "殺"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:36:53"
+- word:
+    name: "kämpfen"
+    hint: "to fight"
+    translation: "鬥"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:36:59"
+- word:
+    name: "jagen"
+    hint: "to hunt"
+    translation: "獵"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:37:02"
+- word:
+    name: "schlagen"
+    hint: "to hit"
+    translation: "擊"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:37:04"
+- word:
+    name: "schneiden"
+    hint: "to cut"
+    translation: "切"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:37:06"
+- word:
+    name: "stechen"
+    hint: "to stab"
+    translation: "刺"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:37:14"
+- word:
+    name: "sitzen (state)"
+    hint: "to sit"
+    translation: "坐"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:37:32"
+- word:
+    name: "Rücken"
+    hint: "back"
+    translation: "背"
+    accent: -1
+  familiarity: 0
+  last_seen_time: "2019-03-25 19:38:05"
+- word:
+    name: "Samen"
+    hint: "seed"
+    translation: "種"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:03:08"
+- word:
+    name: "Fleisch"
+    hint: "meat"
+    translation: "肉"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:03:46"
+- word:
+    name: "Brust"
+    hint: "breast"
+    translation: "乳"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:41:23"
+- word:
+    name: "Fingernagel"
+    hint: "fingernail"
+    translation: "指甲"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:43:30"
+- word:
+    name: "Flügel"
+    hint: "wing"
+    translation: "翅"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:43:52"
+- word:
+    name: "Herz"
+    hint: "heart"
+    translation: "心"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:44:08"
+- word:
+    name: "essen"
+    hint: "to eat"
+    translation: "吃"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:44:22"
+- word:
+    name: "Hals, Nacken"
+    hint: "neck"
+    translation: "頸"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:45:26"
+- word:
+    name: "trinken"
+    hint: "to drink"
+    translation: "喝"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:45:43"
+- word:
+    name: "beißen"
+    hint: "to bite"
+    translation: "咬"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:48:02"
+- word:
+    name: "Zunge"
+    hint: "tongue"
+    translation: "舌"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:48:41"
+- word:
+    name: "Fuß"
+    hint: "foot"
+    translation: "腳"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-24 22:48:57"
+- word:
+    name: "hören"
+    hint: "to hear"
+    translation: "聽"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:30:44"
+- word:
+    name: "kratzen"
+    hint: "to scratch"
+    translation: "撓"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:33:13"
+- word:
+    name: "schwimmen"
+    hint: "to swim"
+    translation: "游"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:33:21"
+- word:
+    name: "liegen (state)"
+    hint: "to lie (as in a bed)"
+    translation: "躺"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:33:24"
+- word:
+    name: "wissen, kennen"
+    hint: "to know"
+    translation: "知"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:33:38"
+- word:
+    name: "sehen"
+    hint: "to see"
+    translation: "看"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:34:46"
+- word:
+    name: "gehen"
+    hint: "to walk"
+    translation: "走"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:35:03"
+- word:
+    name: "fürchten"
+    hint: "to fear"
+    translation: "怕"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:35:24"
+- word:
+    name: "leben"
+    hint: "to live"
+    translation: "住"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:35:43"
+- word:
+    name: "Wald"
+    hint: "forest"
+    translation: "森"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:36:30"
+- word:
+    name: "spalten"
+    hint: "to split"
+    translation: "分"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:37:08"
+- word:
+    name: "Frucht"
+    hint: "fruit"
+    translation: "果"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:37:12"
+- word:
+    name: "kommen"
+    hint: "to come"
+    translation: "來"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:37:16"
+- word:
+    name: "Horn"
+    hint: "horn"
+    translation: "角"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:37:20"
+- word:
+    name: "graben"
+    hint: "to dig"
+    translation: "挖"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:37:23"
+- word:
+    name: "Baum"
+    hint: "tree"
+    translation: "樹"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:37:30"
+- word:
+    name: "fliegen"
+    hint: "to fly"
+    translation: "飛"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-25 19:37:36"
+- word:
+    name: "Schlange"
+    hint: "snake"
+    translation: "蛇"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-25 19:35:38"
+- word:
+    name: "wie"
+    hint: "how"
+    translation: "如何"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:36:21"
+- word:
+    name: "Blut"
+    hint: "blood"
+    translation: "血"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:36:23"
+- word:
+    name: "Kopf"
+    hint: "head"
+    translation: "頭"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:36:25"
+- word:
+    name: "ich"
+    hint: "I"
+    translation: "我"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:25"
+- word:
+    name: "Stock"
+    hint: "stick"
+    translation: "枝"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:39"
+- word:
+    name: "hier"
+    hint: "here"
+    translation: "這裡"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:40"
+- word:
+    name: "du, Sie (polite)"
+    hint: "you (singular)"
+    translation: "你"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:42"
+- word:
+    name: "vier"
+    hint: "four"
+    translation: "四"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:44"
+- word:
+    name: "wann"
+    hint: "when"
+    translation: "何時"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:45"
+- word:
+    name: "Tier"
+    hint: "animal"
+    translation: "動物"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:46"
+- word:
+    name: "einige"
+    hint: "some"
+    translation: "一些"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:48"
+- word:
+    name: "das, jenes (formal)"
+    hint: "that"
+    translation: "那"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:37:55"
+- word:
+    name: "da, dort (formal)"
+    hint: "there"
+    translation: "那裡"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:38:00"
+- word:
+    name: "nicht"
+    hint: "not"
+    translation: "不"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:38:07"
+- word:
+    name: "wo"
+    hint: "where"
+    translation: "哪"
+    accent: -1
+  familiarity: 3
+  last_seen_time: "2019-03-25 19:38:09"
+- word:
+    name: "Hund"
+    hint: "dog"
+    translation: "狗"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:35:47"
+- word:
+    name: "Vogel"
+    hint: "bird"
+    translation: "鳥"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:35:48"
+- word:
+    name: "ihr, Sie (polite)"
+    hint: "you (plural)"
+    translation: "你們"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:35:51"
+- word:
+    name: "lang"
+    hint: "long"
+    translation: "長"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:35:55"
+- word:
+    name: "fünf"
+    hint: "five"
+    translation: "五"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:35:57"
+- word:
+    name: "Fisch"
+    hint: "fish"
+    translation: "魚"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:01"
+- word:
+    name: "Vater"
+    hint: "father"
+    translation: "父"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:03"
+- word:
+    name: "Mutter"
+    hint: "mother"
+    translation: "母"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:05"
+- word:
+    name: "Kind"
+    hint: "child"
+    translation: "孩"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:07"
+- word:
+    name: "Mensch"
+    hint: "man (human)"
+    translation: "人"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:09"
+- word:
+    name: "Mann"
+    hint: "man (male)"
+    translation: "男"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:11"
+- word:
+    name: "Frau"
+    hint: "woman"
+    translation: "女"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:13"
+- word:
+    name: "dick"
+    hint: "thick"
+    translation: "厚"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:15"
+- word:
+    name: "groß"
+    hint: "big"
+    translation: "大"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:16"
+- word:
+    name: "Mann, Ehemann"
+    hint: "husband"
+    translation: "夫"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:18"
+- word:
+    name: "Frau, Ehefrau"
+    hint: "wife"
+    translation: "妻"
+    accent: -1
+  familiarity: 4
+  last_seen_time: "2019-03-25 19:36:19"
+- word:
+    name: "er"
+    hint: "he"
+    translation: "他"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:34:49"
+- word:
+    name: "zwei"
+    hint: "two"
+    translation: "二"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:34:50"
+- word:
+    name: "drei"
+    hint: "three"
+    translation: "三"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:34:52"
+- word:
+    name: "sie"
+    hint: "they"
+    translation: "他們"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:34:58"
+- word:
+    name: "alle"
+    hint: "all"
+    translation: "所有"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:35:05"
+- word:
+    name: "eins"
+    hint: "one"
+    translation: "一"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:35:06"
+- word:
+    name: "viele"
+    hint: "many"
+    translation: "多"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:35:26"
+- word:
+    name: "andere"
+    hint: "other"
+    translation: "其他"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:35:28"
+- word:
+    name: "dies(es)"
+    hint: "this"
+    translation: "這"
+    accent: -1
+  familiarity: 5
+  last_seen_time: "2019-03-25 19:35:30"

@@ -1,0 +1,176 @@
+---
+- word:
+    name: "ich"
+    hint: "I"
+    translation: "我"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:50:08"
+- word:
+    name: "du, Sie (polite)"
+    hint: "you (singular)"
+    translation: "你"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:50:17"
+- word:
+    name: "wir"
+    hint: "we"
+    translation: "我們"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:50:28"
+- word:
+    name: "ihr, Sie (polite)"
+    hint: "you (plural)"
+    translation: "你們"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:50:33"
+- word:
+    name: "sie"
+    hint: "they"
+    translation: "他們"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:50:39"
+- word:
+    name: "was"
+    hint: "what"
+    translation: "什麼"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:51:14"
+- word:
+    name: "nicht"
+    hint: "not"
+    translation: "不"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:51:34"
+- word:
+    name: "alle"
+    hint: "all"
+    translation: "所有"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:51:40"
+- word:
+    name: "eins"
+    hint: "one"
+    translation: "一"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:52:04"
+- word:
+    name: "zwei"
+    hint: "two"
+    translation: "二"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:52:07"
+- word:
+    name: "drei"
+    hint: "three"
+    translation: "三"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:52:10"
+- word:
+    name: "vier"
+    hint: "four"
+    translation: "四"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:52:12"
+- word:
+    name: "er"
+    hint: "he"
+    translation: "他"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:53:31"
+- word:
+    name: "dies(es)"
+    hint: "this"
+    translation: "這"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:53:35"
+- word:
+    name: "das, jenes (formal)"
+    hint: "that"
+    translation: "那"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:53:39"
+- word:
+    name: "wer"
+    hint: "who"
+    translation: "誰"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:53:50"
+- word:
+    name: "wo"
+    hint: "where"
+    translation: "哪"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:53:53"
+- word:
+    name: "wann"
+    hint: "when"
+    translation: "何時"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:53:56"
+- word:
+    name: "hier"
+    hint: "here"
+    translation: "這裡"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:54:32"
+- word:
+    name: "da, dort (formal)"
+    hint: "there"
+    translation: "那裡"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:54:35"
+- word:
+    name: "einige"
+    hint: "some"
+    translation: "一些"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:54:45"
+- word:
+    name: "wie"
+    hint: "how"
+    translation: "如何"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:54:55"
+- word:
+    name: "viele"
+    hint: "many"
+    translation: "多"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:54:59"
+- word:
+    name: "wenig"
+    hint: "few"
+    translation: "少"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:55:03"
+- word:
+    name: "andere"
+    hint: "other"
+    translation: "其他"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-21 20:55:06"

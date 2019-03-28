@@ -1,0 +1,351 @@
+---
+- word:
+    name: "fünf"
+    hint: "five"
+    translation: "五"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:49:00"
+- word:
+    name: "groß"
+    hint: "big"
+    translation: "大"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:49:07"
+- word:
+    name: "Kind"
+    hint: "child"
+    translation: "孩"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:50:21"
+- word:
+    name: "Fisch"
+    hint: "fish"
+    translation: "魚"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:50:44"
+- word:
+    name: "sie"
+    hint: "they"
+    translation: "他們"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:52:15"
+- word:
+    name: "lang"
+    hint: "long"
+    translation: "長"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:52:24"
+- word:
+    name: "Frau"
+    hint: "woman"
+    translation: "女"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:04"
+- word:
+    name: "Mann"
+    hint: "man (male)"
+    translation: "男"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:07"
+- word:
+    name: "Mensch"
+    hint: "man (human)"
+    translation: "人"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:10"
+- word:
+    name: "Frau, Ehefrau"
+    hint: "wife"
+    translation: "妻"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:14"
+- word:
+    name: "Mann, Ehemann"
+    hint: "husband"
+    translation: "夫"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:17"
+- word:
+    name: "Vater"
+    hint: "father"
+    translation: "父"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:30"
+- word:
+    name: "Tier"
+    hint: "animal"
+    translation: "動物"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:33"
+- word:
+    name: "Vogel"
+    hint: "bird"
+    translation: "鳥"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:36"
+- word:
+    name: "Hund"
+    hint: "dog"
+    translation: "狗"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:39"
+- word:
+    name: "Laus"
+    hint: "louse"
+    translation: "虱"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:41"
+- word:
+    name: "breit, weit"
+    hint: "wide"
+    translation: "寬"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:50"
+- word:
+    name: "dick"
+    hint: "thick"
+    translation: "厚"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:53:54"
+- word:
+    name: "klein"
+    hint: "small"
+    translation: "小"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:03"
+- word:
+    name: "kurz"
+    hint: "short"
+    translation: "短"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:07"
+- word:
+    name: "eng"
+    hint: "narrow"
+    translation: "窄"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:11"
+- word:
+    name: "dünn"
+    hint: "thin"
+    translation: "薄"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:14"
+- word:
+    name: "Mutter"
+    hint: "mother"
+    translation: "母"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:17"
+- word:
+    name: "Schlange"
+    hint: "snake"
+    translation: "蛇"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:21"
+- word:
+    name: "Wurm"
+    hint: "worm"
+    translation: "蟲"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:23"
+- word:
+    name: "schwer"
+    hint: "heavy"
+    translation: "重"
+    accent: -1
+  familiarity: 1
+  last_seen_time: "2019-03-23 22:54:29"
+- word:
+    name: "wie"
+    hint: "how"
+    translation: "如何"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:47:43"
+- word:
+    name: "vier"
+    hint: "four"
+    translation: "四"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:47:54"
+- word:
+    name: "drei"
+    hint: "three"
+    translation: "三"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:47:57"
+- word:
+    name: "zwei"
+    hint: "two"
+    translation: "二"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:47:59"
+- word:
+    name: "eins"
+    hint: "one"
+    translation: "一"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:02"
+- word:
+    name: "andere"
+    hint: "other"
+    translation: "其他"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:04"
+- word:
+    name: "wenig"
+    hint: "few"
+    translation: "少"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:08"
+- word:
+    name: "einige"
+    hint: "some"
+    translation: "一些"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:11"
+- word:
+    name: "viele"
+    hint: "many"
+    translation: "多"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:15"
+- word:
+    name: "alle"
+    hint: "all"
+    translation: "所有"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:17"
+- word:
+    name: "nicht"
+    hint: "not"
+    translation: "不"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:20"
+- word:
+    name: "wann"
+    hint: "when"
+    translation: "何時"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:22"
+- word:
+    name: "wo"
+    hint: "where"
+    translation: "哪"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:25"
+- word:
+    name: "was"
+    hint: "what"
+    translation: "什麼"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:27"
+- word:
+    name: "wer"
+    hint: "who"
+    translation: "誰"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:29"
+- word:
+    name: "da, dort (formal)"
+    hint: "there"
+    translation: "那裡"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:32"
+- word:
+    name: "hier"
+    hint: "here"
+    translation: "這裡"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:35"
+- word:
+    name: "das, jenes (formal)"
+    hint: "that"
+    translation: "那"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:39"
+- word:
+    name: "dies(es)"
+    hint: "this"
+    translation: "這"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:43"
+- word:
+    name: "ihr, Sie (polite)"
+    hint: "you (plural)"
+    translation: "你們"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:46"
+- word:
+    name: "wir"
+    hint: "we"
+    translation: "我們"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:50"
+- word:
+    name: "er"
+    hint: "he"
+    translation: "他"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:53"
+- word:
+    name: "du, Sie (polite)"
+    hint: "you (singular)"
+    translation: "你"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:55"
+- word:
+    name: "ich"
+    hint: "I"
+    translation: "我"
+    accent: -1
+  familiarity: 2
+  last_seen_time: "2019-03-23 22:48:58"

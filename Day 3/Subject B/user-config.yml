@@ -1,0 +1,4 @@
+---
+progresses_of_wordlists:
+  wordlist.csv: 75
+current_wordlist: "wordlist.csv"
